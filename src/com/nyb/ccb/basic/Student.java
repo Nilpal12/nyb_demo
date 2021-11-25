@@ -6,4 +6,5 @@ public class Student {
     private int age;
     private String rollNumber;
     private String address;
+    private String contactNo;
 }
